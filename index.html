@@ -7,10 +7,11 @@
 <meta name="description" content="Muh. Wardiman — Software & Web Developer Portfolio. Full-stack web, PWA systems, mobile apps (Flutter/Android) & UX design.">
 <title>MUH. WARDIMAN — Software & Web Developer</title>
 <link rel="icon" type="image/png" href="favicon.png">
+<link rel="alternate" type="text/plain" href="llms.txt" title="LLMs Context">
 <script>document.documentElement.classList.add('js')</script>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Space+Grotesk:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="preload" as="image" href="profile.webp" type="image/webp">
+<link rel="preload" as="font" href="fonts/space-grotesk-latin.woff2" type="font/woff2" crossorigin>
+<link rel="preload" as="font" href="fonts/unbounded-latin.woff2" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="css/style.css">
 <script type="application/ld+json">
 {
@@ -19,7 +20,7 @@
   "name": "Muh. Wardiman",
   "alternateName": "devwardiman",
   "url": "https://devwardiman.my.id/",
-  "image": "https://devwardiman.my.id/profile.jpg",
+  "image": "https://devwardiman.my.id/profile.webp",
   "jobTitle": "Software & Web Developer",
   "sameAs": [
     "https://www.linkedin.com/in/devwardiman",
@@ -67,7 +68,7 @@
     <div class="card profile-card reveal">
       <div class="avatar-wrap">
         <span class="avatar-ring" aria-hidden="true"></span>
-        <img src="profile.jpg" alt="Portrait of Muh. Wardiman" width="118" height="118">
+        <img src="profile.webp" alt="Portrait of Muh. Wardiman" width="118" height="118" fetchpriority="high">
         <span class="status-dot" aria-hidden="true"></span>
       </div>
       <h1 class="name" id="name" data-text="MUH. WARDIMAN">MUH. WARDIMAN</h1>
@@ -251,22 +252,22 @@
     </div>
     <div class="skills-grid">
       <div class="skill-card reveal">
-        <h4>Database Architecture</h4>
+        <h3>Database Architecture</h3>
         <p>SQL Server, MySQL, SQLite Database Systems (90%)</p>
         <div class="skill-bar"><b style="width:90%"></b></div>
       </div>
       <div class="skill-card reveal">
-        <h4>Backend &amp; OOP</h4>
+        <h3>Backend &amp; OOP</h3>
         <p>Java (OOP), Visual .NET (C#), Node.js &amp; CodeIgniter 4 (90%)</p>
         <div class="skill-bar"><b style="width:90%"></b></div>
       </div>
       <div class="skill-card reveal">
-        <h4>Frontend &amp; PWA</h4>
+        <h3>Frontend &amp; PWA</h3>
         <p>HTML5, CSS3, JavaScript, TypeScript, PHP &amp; Web Admin (80%)</p>
         <div class="skill-bar"><b style="width:80%"></b></div>
       </div>
       <div class="skill-card reveal">
-        <h4>Mobile Engineering</h4>
+        <h3>Mobile Engineering</h3>
         <p>Android Studio (Kotlin/Java) &amp; Flutter App Development</p>
         <div class="skill-bar"><b style="width:70%"></b></div>
       </div>

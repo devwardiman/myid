@@ -1,0 +1,30 @@
+# Muh. Wardiman (@devwardiman)
+
+> Software & Web Developer based in Makassar, Indonesia. Specialized in full-stack web architectures, PWA monitoring systems, mobile applications (Flutter/Android), and UX design. 7+ years of experience with 100+ projects shipped. Available full-time.
+
+## Core Competencies & Tech Stack
+- **Database Architecture**: Microsoft SQL Server, MySQL, MariaDB, SQLite.
+- **Backend & OOP**: Java (OOP), Visual .NET (C#), Node.js, PHP / CodeIgniter 4, RESTful APIs.
+- **Frontend & PWA**: Modern JavaScript (ESNext), TypeScript, HTML5, CSS3, Progressive Web Apps (PWA), responsive dashboards.
+- **Mobile Engineering**: Android Studio (Kotlin / Java), Flutter cross-platform development.
+- **Current Focus / Research**: Vibe coding, technical blogging, open-source development.
+
+## Featured Work & Certifications
+- **Sistem Informasi Manajemen & Monitoring Berbasis Web dan Mobile**: End-to-end enterprise platform featuring SQL Server & MySQL data layers, CodeIgniter 4 / Node.js backend services, real-time responsive web administration, and Flutter mobile clients.
+- **UX Design For Website (45 JP)**: Professional certification from LPK BABA STUDIO (issued September 1, 2020) covering website UX design principles, UI layout engineering, and interactive web prototyping.
+
+## Primary Links & Channels
+- **Website**: [devwardiman.my.id](https://devwardiman.my.id/)
+- **GitHub**: [github.com/devwardiman](https://github.com/devwardiman) — Open-source codebases and public repositories.
+- **LinkedIn**: [linkedin.com/in/devwardiman](https://www.linkedin.com/in/devwardiman) — Professional background and career history.
+- **Perakit**: [perakit.net](https://perakit.net) — Tech news and developer resources.
+- **YouTube**: [youtube.com/@devwardiman](https://youtube.com/@devwardiman) — Tech tutorials and live coding.
+- **Email**: [devwardiman@perakit.com](mailto:devwardiman@perakit.com)
+- **WhatsApp**: [wa.me/devwardiman](https://wa.me/devwardiman)
+- **X / Twitter**: [x.com/devwardiman](https://x.com/devwardiman)
+- **Instagram**: [instagram.com/devwardiman](https://instagram.com/devwardiman)
+- **TikTok**: [tiktok.com/@devwardiman](https://tiktok.com/@devwardiman)
+- **Pinterest**: [pinterest.com/devwardiman](https://pinterest.com/devwardiman)
+- **Twitch**: [twitch.tv/devwardiman](https://www.twitch.tv/devwardiman)
+- **Facebook**: [facebook.com/devwardiman](https://facebook.com/devwardiman)
+- **Personal Archive**: [wardiman.wixsite.com/ceritaku](https://wardiman.wixsite.com/ceritaku)

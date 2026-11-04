@@ -1,3 +1,37 @@
+/* ---------- self-hosted fonts ---------- */
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url('../fonts/space-grotesk-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/spacemono-400-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/spacemono-700-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Unbounded';
+  font-style: normal;
+  font-weight: 300 900;
+  font-display: swap;
+  src: url('../fonts/unbounded-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
 :root{
   --bg:#0A0B0E; --panel:#10121A; --panel2:#161926;
   --line:rgba(242,242,236,.09); --tx:#F4F4EF; --mut:#8E93A1;
@@ -155,7 +189,7 @@ img{display:block;max-width:100%}
 /* ---------- gallery / skills grid ---------- */
 .skills-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-bottom:26px}
 .skill-card{position:relative;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:18px 16px}
-.skill-card h4{font-family:var(--disp);font-weight:600;font-size:.88rem;color:var(--tx);margin-bottom:6px}
+.skill-card h3,.skill-card h4{font-family:var(--disp);font-weight:600;font-size:.88rem;color:var(--tx);margin-bottom:6px}
 .skill-card p{color:var(--mut);font-size:.78rem;line-height:1.45}
 .skill-bar{height:4px;background:rgba(255,255,255,.08);border-radius:2px;margin-top:12px;overflow:hidden}
 .skill-bar b{display:block;height:100%;background:var(--acc)}
