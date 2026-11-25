@@ -16,6 +16,7 @@
 ## Primary Links & Channels
 - **Website**: [devwardiman.my.id](https://devwardiman.my.id/)
 - **GitHub**: [github.com/devwardiman](https://github.com/devwardiman) — Open-source codebases and public repositories.
+- **Google Developers**: [g.dev/devwardiman](https://g.dev/devwardiman) — Google Developer profile and badges.
 - **LinkedIn**: [linkedin.com/in/devwardiman](https://www.linkedin.com/in/devwardiman) — Professional background and career history.
 - **Perakit**: [perakit.net](https://perakit.net) — Tech news and developer resources.
 - **YouTube**: [youtube.com/@devwardiman](https://youtube.com/@devwardiman) — Tech tutorials and live coding.
